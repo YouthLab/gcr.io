@@ -31,3 +31,13 @@ k8s.gcr.io/kube-proxy:v1.11.4
 k8s.gcr.io/pause:3.1
 k8s.gcr.io/etcd:3.2.18
 k8s.gcr.io/coredns:1.2.2
+
+kubeadm config images list --kubernetes-version=v1.12.2
+k8s.gcr.io/kube-apiserver:v1.12.2
+k8s.gcr.io/kube-controller-manager:v1.12.2
+k8s.gcr.io/kube-scheduler:v1.12.2
+k8s.gcr.io/kube-proxy:v1.12.2
+k8s.gcr.io/pause:3.1
+k8s.gcr.io/etcd:3.2.24
+k8s.gcr.io/coredns:1.2.2
+
