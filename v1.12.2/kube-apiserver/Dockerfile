@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.22.2
+FROM k8s.gcr.io/kube-apiserver:v1.12.2
 MAINTAINER Alps Tsui <Tsui@HighYouth.COM>
